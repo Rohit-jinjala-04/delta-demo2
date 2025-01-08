@@ -1,2 +1,2 @@
 # delta-demo2
-this is the first repo
+this is the first repo.
